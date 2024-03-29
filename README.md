@@ -47,26 +47,28 @@
 
 ```
 └─ Project
-  ├─ fly-CAM.zip
+  ├─ LICENSE
+  ├─ README.md
   ├─ /document/
   ├─ /fly-ASM/
   ├─ /fly-BOM/
   ├─ /fly-CAM/
-  └─ /fly-PRJ/
-    ├─ fly.Annotation
-    ├─ fly.PcbLib
-    ├─ fly.PrjPcb
-    ├─ fly.PrjPcbStructure
-    ├─ fly.SchDoc
-    ├─ fly.SCHLIB
-    ├─ fly1.PcbDoc
-    ├─ fly1_copy.PcbDoc
-    ├─ fly1_copy2.PcbDoc
-    ├─ fly2.PcbDoc
-    ├─ fly_panel.html
-    ├─ fly_panel.PcbDoc
-    ├─ fly_panel.pdf
-    └─ fly_panel.txt
+  ├─ /fly-PRJ/
+  │ ├─ fly.Annotation
+  │ ├─ fly.PcbLib
+  │ ├─ fly.PrjPcb
+  │ ├─ fly.PrjPcbStructure
+  │ ├─ fly.SchDoc
+  │ ├─ fly.SCHLIB
+  │ ├─ fly1.PcbDoc
+  │ ├─ fly1_copy.PcbDoc
+  │ ├─ fly1_copy2.PcbDoc
+  │ ├─ fly2.PcbDoc
+  │ ├─ fly_panel.html
+  │ ├─ fly_panel.PcbDoc
+  │ ├─ fly_panel.pdf
+  │ └─ fly_panel.txt
+  └─ /images/
 
 ```
 
